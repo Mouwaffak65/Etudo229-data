@@ -6,5 +6,48 @@
     "annee": "2024",
     "etablissement": "National",
     "lienDrivePdf": "https://drive.google.com/file/d/1LnzYkUvd-IprLTrM66WnFSAiaGld0HVg/view?usp=sharing"
+  },
+  {
+    "titre": "Épreuve d'espagnol BAC blanc Borgou",
+    "matiere": "Espagnol",
+    "niveau": "BEPC",
+    "annee": "2024",
+    "etablissement": "National",
+    "lienDrivePdf": "https://drive.google.com/file/d/1XMcgD4VsUpsRfjCQow5BFtofaRpepaub/view?usp=sharing"
+  },
+  
+  {
+    "titre": "Épreuve d'SVT BAC blanc Borgou",
+    "matiere": "SVT",
+    "niveau": "BEPC",
+    "annee": "2024",
+    "etablissement": "National",
+    "lienDrivePdf": "https://drive.google.com/file/d/16O7WyDlw2nH7YOkRbHMlgMbkQyCtS3Dw/view?usp=sharing"
+  },
+  
+  {
+    "titre": "Épreuve de Français BAC blanc Borgou",
+    "matiere": "Français",
+    "niveau": "BEPC",
+    "annee": "2024",
+    "etablissement": "National",
+    "lienDrivePdf": "https://drive.google.com/file/d/1zbFlqvJ3Vy4pL7QJxqeNdzBlPSaCwSRW/view?usp=sharing"
+  },
+  
+  {
+    "titre": "Épreuve de Math BAC blanc Borgou",
+    "matiere": "Mathématiques",
+    "niveau": "BEPC",
+    "annee": "2024",
+    "etablissement": "National",
+    "lienDrivePdf": "https://drive.google.com/file/d/1AwE3efAxRausr-956nbOZLUcqXjsQY9_/view?usp=sharing"
+  },
+  {
+    "titre": "Épreuve de PCT BAC blanc Borgou",
+    "matiere": "PCT",
+    "niveau": "BEPC",
+    "annee": "2024",
+    "etablissement": "National",
+    "lienDrivePdf": "https://drive.google.com/file/d/1YizpzIXnBktaaE4HvF1NDmw-bV5Ylps4/view?usp=sharing"
   }
 ]
