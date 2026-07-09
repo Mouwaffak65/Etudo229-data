@@ -211,4 +211,36 @@
     "etablissement": "National",
     "lienDrivePdf": "https://drive.google.com/file/d/1hgK6_0kUsrHm0DWKhr6lEnQcsm96YSAh/view?usp=sharing "
   },
+  {
+    "titre": "corrige-epreuve-de-mathematique-bepc-2023-benin",
+    "matiere": "Mathématiques",
+    "niveau": "BEPC",
+    "annee": "2023",
+    "etablissement": "National",
+    "lienDrivePdf": "https://drive.google.com/file/d/1wRVpRnAQNcsBa2z0qWpEAbJkG3MzWc4k/view?usp=sharing "
+  },
+   {
+    "titre": "corrige-epreuve-de-pct-bepc-2023-benin",
+    "matiere": "PCT",
+    "niveau": "BEPC",
+    "annee": "2023",
+    "etablissement": "National",
+    "lienDrivePdf": "https://drive.google.com/file/d/1dZqo3PsPl1F_ewVzBy6huzDvvL27LehE/view?usp=sharing"
+  },
+   {
+    "titre": "epreuve-danglais-bepc-2023-benin_2023_10_4_24",
+    "matiere": "Anglais",
+    "niveau": "BEPC",
+    "annee": "2023",
+    "etablissement": "National",
+    "lienDrivePdf": "https://drive.google.com/file/d/1Qb_btdq-SHupVDZen8UOGlopxU5uyD59/view?usp=sharing"
+  },
+  {
+    "titre": "epreuve-de-communication-ecrite-bepc-2023-benin_2023_10_10_24",
+    "matiere": "Francais",
+    "niveau": "BEPC",
+    "annee": "2023",
+    "etablissement": "National",
+    "lienDrivePdf": "https://drive.google.com/file/d/1Qb_btdq-SHupVDZen8UOGlopxU5uyD59/view?usp=sharing"
+  },
 ]
