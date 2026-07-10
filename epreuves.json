@@ -1315,4 +1315,60 @@
     "etablissement": "National",
     "lienDrivePdf": "https://drive.google.com/file/d/1nxt_QSUMWiN2B_hqJlTCfYopWyxDh4BZ/view?usp=sharing"
   },
+  {
+    "titre": "epreuve-de-dessincouture-examen-blanc-cep-2025",
+    "matiere": "Déssin",
+    "niveau": "CEP",
+    "annee": "2025",
+    "etablissement": "National",
+    "lienDrivePdf": "https://drive.google.com/file/d/188gvyQy4T63HYyb6_PgcU-ln7ctQeHkX/view?usp=sharing"
+  },
+   {
+    "titre": "epreuve-de-lecture-examen-blanc-cep-2025.pdf",
+    "matiere": "Francais",
+    "niveau": "CEP",
+    "annee": "2025",
+    "etablissement": "National",
+    "lienDrivePdf": "https://drive.google.com/file/d/1QDoPPZBNC3qYCqfXet9I7AyejX5yaCul/view?usp=sharing"
+  },
+  {
+    "titre": "epreuve-de-mathematiques-cep-2025-benin.pdf",
+    "matiere": "Mathématiques",
+    "niveau": "CEP",
+    "annee": "2025",
+    "etablissement": "National",
+    "lienDrivePdf": "https://drive.google.com/file/d/1qV0fbkhoB9AZoNAEcYoIODDxgvzOfYcl/view?usp=sharing"
+  },
+   {
+    "titre": "epreuve-de-mathematiques-examen-blanc-cep-2025.pdf",
+    "matiere": "Mathématiques",
+    "niveau": "CEP",
+    "annee": "2025",
+    "etablissement": "National",
+    "lienDrivePdf": "https://drive.google.com/file/d/1kW6OxOQgKn1COTaSShZOT2uKuEZECnVX/view?usp=sharing"
+  },
+  {
+    "titre": "epreuve-des-examen-blanc-cep-2025.pdf",
+    "matiere": "Mathématiques",
+    "niveau": "CEP",
+    "annee": "2025",
+    "etablissement": "National",
+    "lienDrivePdf": "https://drive.google.com/file/d/1BjHSHRGq5k0L6cCD4cSivoUvaV805xDe/view?usp=sharing"
+  },
+  {
+    "titre": "epreuve-dest-examen-blanc-cep-2025.pdf",
+    "matiere": "EST",
+    "niveau": "CEP",
+    "annee": "2025",
+    "etablissement": "National",
+    "lienDrivePdf": "https://drive.google.com/file/d/1xxBxYkxR7ngq8a6ygiD2szSGY9PqtToD/view?usp=sharing"
+  },
+  {
+    "titre": "epreuve-dexpression-ecrite-examen-blanc-cep-2025.pdf",
+    "matiere": "Francais",
+    "niveau": "CEP",
+    "annee": "2025",
+    "etablissement": "National",
+    "lienDrivePdf": "https://drive.google.com/file/d/1ICGU6pHYUpeF_PPPtw1zU7rokU6fKMs9/view?usp=sharing"
+  },
 ]
