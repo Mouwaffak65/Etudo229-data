@@ -1,0 +1,22 @@
+[
+  {
+    "titre": "Domaine de définition",
+    "matiere": "Mathématiques",
+    "niveau": "BAC",
+    "professeur": "Idriss39",
+    "duree": "19 min",
+    "youtubeVideoId": "brL0gqgExu1kW1bD",
+    "youtubeUrl": "https://youtu.be/Kyr2auuhANI?si=brL0gqgExu1kW1bD",
+    "description": "comment trouver l'ensemble de définition d'une fonction "
+  },
+  {
+    "titre": "Méthodologie de la dissertation littéraire",
+    "matiere": "Français",
+    "niveau": "BEPC",
+    "professeur": "Prof. Yao",
+    "duree": "15 min",
+    "youtubeVideoId": "dQw4w9WgXcQ",
+    "youtubeUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "description": "Techniques et astuces pour réussir l'épreuve de composition française."
+  }
+]
